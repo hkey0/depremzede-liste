@@ -1,4 +1,9 @@
 
+#CANLI GÖRÜNTÜLEYİN
+
+http://78.135.87.199:5000/
+
+
 # DEPREMZEDE LİSTESİ
 
 Veriler twitter'dan toplanmaktadır. Olabildiğince filtrelenmiş ve sadece adresleri içerek şekilde ayarlanmıştır.
